@@ -19,7 +19,7 @@ Task Reducer es una aplicación básica de tareas desarrollada con React, que se
 
 1. Clona el repositorio: git clone `https://github.com/A-F-V-A/tastk-reducer.git`
 2. Ingresa al directorio del proyecto: `cd task-reducer`
-3. Instala las dependencias: `npm install`
+3. Instala las dependencias: `npm install` 
 
 # Contribución
 
